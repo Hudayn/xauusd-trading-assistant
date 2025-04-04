@@ -1,0 +1,10 @@
+python-telegram-bot==13.7
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+requests
+beautifulsoup4
+jinja2
+python-dotenv
